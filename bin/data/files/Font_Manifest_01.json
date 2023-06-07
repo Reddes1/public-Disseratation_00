@@ -1,0 +1,28 @@
+{
+    "Fonts": [
+        {
+            "Font Name": "AlloyInk_10",
+            "Font Filepath": "data/fonts/AlloyInk_10.spritefont"
+        },
+        {
+            "Font Name": "AlloyInk_12",
+            "Font Filepath": "data/fonts/AlloyInk_12.spritefont"
+        },
+        {
+            "Font Name": "AlloyInk_14",
+            "Font Filepath": "data/fonts/AlloyInk_14.spritefont"
+        },
+        {
+            "Font Name": "AlloyInk_16",
+            "Font Filepath": "data/fonts/AlloyInk_16.spritefont"
+        },
+        {
+            "Font Name": "AlloyInk_18",
+            "Font Filepath": "data/fonts/AlloyInk_18.spritefont"
+        },
+        {
+            "Font Name": "AlloyInk_20",
+            "Font Filepath": "data/fonts/AlloyInk_20.spritefont"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+#pragma once
+/*
+	Comment Describing Class.
+*/
+class AI_BehaviourTreeManager
+{
+public:
+
+
+	////////////
+	/// Data ///
+	////////////
+
+
+	///////////////////
+	/// Definitions ///
+	///////////////////
+
+
+	////////////////////
+	/// Constructors ///
+	////////////////////
+
+	AI_BehaviourTreeManager() { Init(); }
+	~AI_BehaviourTreeManager() { Release(); }
+
+	//////////////////
+	/// Operations ///
+	//////////////////
+
+
+	///////////
+	/// Get ///
+	///////////
+
+
+	///////////
+	/// Set ///
+	///////////
+
+
+private:
+
+	//////////////////
+	/// Operations ///
+	//////////////////
+
+	void Init();
+	void Release();
+	
+	////////////
+	/// Data ///
+	////////////
+
+
+};

@@ -1,0 +1,3 @@
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Assassin] for 30 damage.

@@ -1,0 +1,12 @@
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Sorceress],2,1,0,0
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Sorceress],2,1,0,0
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Sorceress],2,1,0,0
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Sorceress],2,1,0,0
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,2,1

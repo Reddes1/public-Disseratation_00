@@ -1,0 +1,100 @@
+{
+    "Units": [
+        {
+            "Unit Name": "Assassin",
+            "Unit Unique ID": 0,
+            "Unit Type ID": 1,
+            "Terrain ID": 0,
+
+            "Health": 90.0,
+            "Movespeed": 8.0,
+            "Attack Range": 1,
+            "Vision Range": 4,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "An agile mage hunter."
+        },
+        {
+            "Unit Name": "Barbarian",
+            "Unit Unique ID": 1,
+            "Unit Type ID": 0,
+            "Terrain ID": 0,
+
+            "Health": 100.0,
+            "Movespeed": 7.0,
+            "Attack Range": 1,
+            "Vision Range": 3,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "A burly barbarian."
+        },
+        {
+            "Unit Name": "Archer",
+            "Unit Unique ID": 2,
+            "Unit Type ID": 0,
+            "Terrain ID": 0,
+
+            "Health": 70.0,
+            "Movespeed": 5.0,
+            "Attack Range": 3,
+            "Vision Range": 5,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "An eagle-eyed scout."
+        },
+        {
+            "Unit Name": "Necromancer",
+            "Unit Unique ID": 3,
+            "Unit Type ID": 1,
+            "Terrain ID": 0,
+
+            "Health": 50.0,
+            "Movespeed": 4.0,
+            "Attack Range": 5,
+            "Vision Range": 5,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "A long ranged bringer of death."
+        },
+        {
+            "Unit Name": "Sorceress",
+            "Unit Unique ID": 4,
+            "Unit Type ID": 1,
+            "Terrain ID": 0,
+
+            "Health": 70.0,
+            "Movespeed": 5.0,
+            "Attack Range": 3,
+            "Vision Range": 4,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "A magicks expert."
+        },
+        {
+            "Unit Name": "Warrior",
+            "Unit Unique ID": 5,
+            "Unit Type ID": 1,
+            "Terrain ID": 0,
+
+            "Health": 120.0,
+            "Movespeed": 6.0,
+            "Attack Range": 1,
+            "Vision Range": 5,
+            "Damage": 30.0,
+            "Can Fly": false,
+            "Can Swim": false,
+
+            "Unit Flavour Text": "An armoured juggernaut."
+        }
+    ]
+}

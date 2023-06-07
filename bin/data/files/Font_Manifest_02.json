@@ -1,0 +1,28 @@
+{
+    "Fonts": [
+        {
+            "Font Name": "A_Absolute_Empire_12",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_12.spritefont"
+        },
+        {
+            "Font Name": "A_Absolute_Empire_14",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_14.spritefont"
+        },
+        {
+            "Font Name": "A_Absolute_Empire_16",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_16.spritefont"
+        },
+        {
+            "Font Name": "A_Absolute_Empire_18",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_18.spritefont"
+        },
+        {
+            "Font Name": "A_Absolute_Empire_20",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_20.spritefont"
+        },
+        {
+            "Font Name": "A_Absolute_Empire_22",
+            "Font Filepath": "data/fonts/A_Absolute_Empire_22.spritefont"
+        }
+    ]
+}

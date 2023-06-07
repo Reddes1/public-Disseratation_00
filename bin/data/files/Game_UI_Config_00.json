@@ -1,0 +1,718 @@
+{
+    "Non-Navigational UI Elements": [
+        {
+            "Unique Type ID": 0,
+            "Creation Count": 1,
+            "Name": "Tile_Tooltip_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 45,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 1686.0,
+            "Pos Adj Y": 920.0,
+
+            "Scale Adj X": 1.5,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Tile Name",
+                    "Font ID": 3,
+                    "Text Justification ID": 7,
+                    "Pos X": 96.0,
+                    "Pos Y": 24.0,
+                    "Rotation": 0.0,
+                    "Scale": 0.9,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Cost: ",
+                    "Font ID": 1,
+                    "Text Justification ID": 1,
+                    "Pos X": 8.0,
+                    "Pos Y": 56.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Def: ",
+                    "Font ID": 1,
+                    "Text Justification ID": 1,
+                    "Pos X": 8.0,
+                    "Pos Y": 86.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 1,
+            "Creation Count": 1,
+            "Name": "Unit_Frame_Friendly_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 51,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 1686.0,
+            "Pos Adj Y": 840.0,
+
+            "Scale Adj X": 1.5,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Unit Name",
+                    "Font ID": 3,
+                    "Text Justification ID": 7,
+                    "Pos X": 96.0,
+                    "Pos Y": 18.0,
+                    "Rotation": 0.0,
+                    "Scale": 0.9,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "HP: ",
+                    "Font ID": 1,
+                    "Text Justification ID": 1,
+                    "Pos X": 6.0,
+                    "Pos Y": 44.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 2,
+            "Creation Count": 1,
+            "Name": "Unit_Frame_Enemy_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 54,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 1686.0,
+            "Pos Adj Y": 600.0,
+
+            "Scale Adj X": 1.5,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Unit Name",
+                    "Font ID": 3,
+                    "Text Justification ID": 7,
+                    "Pos X": 96.0,
+                    "Pos Y": 18.0,
+                    "Rotation": 0.0,
+                    "Scale": 0.9,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "HP: ",
+                    "Font ID": 1,
+                    "Text Justification ID": 1,
+                    "Pos X": 6.0,
+                    "Pos Y": 44.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 3,
+            "Creation Count": 1,
+            "Name": "Message_Box_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 18,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 832.0,
+            "Pos Adj Y": 420.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Both Teams Lose!",
+                    "Font ID": 1,
+                    "Text Justification ID": 7,
+                    "Pos X": 128.0,
+                    "Pos Y": 18.0,
+                    "Rotation": 0.0,
+                    "Scale": 1,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 4,
+            "Creation Count": 1,
+            "Name": "Message_Box_01",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 48,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 100.0,
+            "Pos Adj Y": 64.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Message Placeholder",
+                    "Font ID": 3,
+                    "Text Justification ID": 7,
+                    "Pos X": 96.0,
+                    "Pos Y": 18.0,
+                    "Rotation": 0.0,
+                    "Scale": 0.9,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 5,
+            "Creation Count": 1,
+            "Name": "Unit_Information_Window_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 1,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 42.0,
+            "Pos Adj Y": 64.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Unit Name: ",
+                    "Font ID": 3,
+                    "Text Justification ID": 1,
+                    "Pos X": 4.0,
+                    "Pos Y": 24.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "HP: ",
+                    "Font ID": 3,
+                    "Text Justification ID": 1,
+                    "Pos X": 4.0,
+                    "Pos Y": 52.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Movespeed: ",
+                    "Font ID": 3,
+                    "Text Justification ID": 1,
+                    "Pos X": 4.0,
+                    "Pos Y": 80.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Strong Match-ups: ",
+                    "Font ID": 3,
+                    "Text Justification ID": 1,
+                    "Pos X": 4.0,
+                    "Pos Y": 158.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Weak Match-ups: ",
+                    "Font ID": 3,
+                    "Text Justification ID": 1,
+                    "Pos X": 4.0,
+                    "Pos Y": 296.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "",
+                    "Font ID": 2,
+                    "Text Justification ID": 0,
+                    "Pos X": 8.0,
+                    "Pos Y": 178.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "",
+                    "Font ID": 2,
+                    "Text Justification ID": 0,
+                    "Pos X": 8.0,
+                    "Pos Y": 320.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        }
+    ],
+    "Fixed-Navigational UI Elements": [
+        {
+            "Unique Type ID": 0,
+            "Creation Count": 2,
+            "Name": "Unit_Actions_Menu_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 19,
+
+            "Cursor Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Cursor Texture Access Name": "BK_UI_Atlas_00",
+            "Cursor Texture Frame ID": 53,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 42.0,
+            "Pos Adj Y": 64.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "Cursor Anchor Pos X": 5.0,
+            "Cursor Anchor Pos Y": 5.0,
+            "String Anchor Pos X": 64.0,
+            "String Anchor Pos Y": 40.0,
+
+            "UI Layer Depth": 0.80,
+            "Cursor Layer Depth": 0.81,
+
+            "Offset X": 64.0,
+            "Offset Y": 64.0,
+
+            "Index Max X": 0,
+            "Index Max Y": 3,
+            "Default Index X": 0,
+            "Default Index Y": 0,
+
+            "UI Strings": [
+                {
+                    "String": "Attack",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Move",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Pass",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Info",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 1,
+            "Creation Count": 1,
+            "Name": "Game_Master_Menu_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 30,
+
+            "Cursor Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Cursor Texture Access Name": "BK_UI_Atlas_00",
+            "Cursor Texture Frame ID": 53,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 42.0,
+            "Pos Adj Y": 64.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "Cursor Anchor Pos X": 5.0,
+            "Cursor Anchor Pos Y": 5.0,
+            "String Anchor Pos X": 64.0,
+            "String Anchor Pos Y": 40.0,
+
+            "UI Layer Depth": 0.80,
+            "Cursor Layer Depth": 0.81,
+
+            "Offset X": 64.0,
+            "Offset Y": 64.0,
+
+            "Index Max X": 0,
+            "Index Max Y": 1,
+            "Default Index X": 0,
+            "Default Index Y": 0,
+
+            "UI Strings": [
+                {
+                    "String": "End Turn",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Quit",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        },
+        {
+            "Unique Type ID": 2,
+            "Creation Count": 1,
+            "Name": "Main_Menu_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 31,
+
+            "Cursor Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Cursor Texture Access Name": "BK_UI_Atlas_00",
+            "Cursor Texture Frame ID": 59,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 42.0,
+            "Pos Adj Y": 64.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "Cursor Anchor Pos X": 5.0,
+            "Cursor Anchor Pos Y": 5.0,
+            "String Anchor Pos X": 64.0,
+            "String Anchor Pos Y": 40.0,
+
+            "UI Layer Depth": 0.80,
+            "Cursor Layer Depth": 0.81,
+
+            "Offset X": 64.0,
+            "Offset Y": 32.0,
+
+            "Index Max X": 0,
+            "Index Max Y": 3,
+            "Default Index X": 0,
+            "Default Index Y": 0,
+
+            "UI Strings": [
+                {
+                    "String": "Start Game",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "How To Play",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Options (NYI)",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Quit Game",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+
+            ]
+        },
+        {
+            "Unique Type ID": 3,
+            "Creation Count": 1,
+            "Name": "Scenario_Over_Menu_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 31,
+
+            "Cursor Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Cursor Texture Access Name": "BK_UI_Atlas_00",
+            "Cursor Texture Frame ID": 59,
+
+            "UI Pos X": 0.0,
+            "UI Pos Y": 0.0,
+
+            "Pos Adj X": 896.0,
+            "Pos Adj Y": 460.0,
+
+            "Scale Adj X": 1.0,
+            "Scale Adj Y": 1.0,
+
+            "Cursor Anchor Pos X": 5.0,
+            "Cursor Anchor Pos Y": 5.0,
+            "String Anchor Pos X": 68.0,
+            "String Anchor Pos Y": 22.0,
+
+            "UI Layer Depth": 0.80,
+            "Cursor Layer Depth": 0.81,
+
+            "Offset X": 64.0,
+            "Offset Y": 32.0,
+
+            "Index Max X": 0,
+            "Index Max Y": 2,
+            "Default Index X": 0,
+            "Default Index Y": 0,
+
+            "UI Strings": [
+                {
+                    "String": "Play Again",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Main Menu",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Quit Game",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Textures": [
+        {
+            "Texture Name": "Testing_Texture_00",
+            "Texture Filepath": "data/textures/misc/Testing_Texture_00.dds",
+
+            "Frames Filepath": "data/textures/misc/Testing_Texture_00.json"
+        },
+        {
+            "Texture Name": "Anim_Test_SS_00",
+            "Texture Filepath": "data/textures/sprites/Anim_Test_SS_00.dds",
+
+            "Frames Filepath": "data/textures/sprites/Anim_Test_SS_00.json"
+        },
+        {
+            "Texture Name": "Test_BG_00",
+            "Texture Filepath": "data/textures/backgrounds/RB_WP_00.dds"
+        },
+        {
+            "Texture Name": "BK_UI_Atlas_00",
+            "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+
+            "Frames Filepath": "data/textures/ui/BK_UI_Bundle_00.json"
+        },
+        {
+            "Texture Name": "Tropics_00",
+            "Texture Filepath": "data/textures/tilemaps/Tropical_Tileset_00.dds"
+        },
+        {
+            "Texture Name": "Assassin_SS_00",
+            "Texture Filepath": "data/textures/sprites/Assassin_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Assassin_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Barbarian_SS_00",
+            "Texture Filepath": "data/textures/sprites/Barbarian_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Barbarian_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Archer_SS_00",
+            "Texture Filepath": "data/textures/sprites/Centaur_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Centaur_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Necromancer_SS_00",
+            "Texture Filepath": "data/textures/sprites/Necromancer_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Necromancer_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Sorceress_SS_00",
+            "Texture Filepath": "data/textures/sprites/Sorceress_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Sorceress_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Warrior_SS_00",
+            "Texture Filepath": "data/textures/sprites/Warrior_Class_Spritesheet.dds",
+
+            "Frames Filepath": "data/textures/sprites/Warrior_Class_Spritesheet.json"
+        },
+        {
+            "Texture Name": "Logos_00",
+            "Texture Filepath": "data/textures/ui/Logos_00.dds",
+
+            "Frames Filepath": "data/textures/ui/Logos_00.json"
+        }
+    ]
+}

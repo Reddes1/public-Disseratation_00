@@ -1,0 +1,268 @@
+{
+    "Unit Matchups": [
+        {
+            "Unit Name": "Assassin",
+            "Unit Unique ID": 0,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 0.75
+                }
+            ]
+
+        },
+        {
+            "Unit Name": "Barbarian",
+            "Unit Unique ID": 1,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 1.0
+                }
+            ]
+
+        },
+        {
+            "Unit Name": "Archer",
+            "Unit Unique ID": 2,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 1.0
+                }
+            ]
+
+        },
+        {
+            "Unit Name": "Necromancer",
+            "Unit Unique ID": 3,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 1.5
+                }
+            ]
+
+        },
+        {
+            "Unit Name": "Sorceress",
+            "Unit Unique ID": 4,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 0.75
+                }
+            ]
+
+        },
+        {
+            "Unit Name": "Warrior",
+            "Unit Unique ID": 5,
+
+            "Damage Modifications": [
+                {
+                    "Unit Name": "Assassin",
+                    "Unit Unique ID": 0,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Barbarian",
+                    "Unit Unique ID": 1,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Archer",
+                    "Unit Unique ID": 2,
+
+                    "Damage Done Mod": 1.5
+                },
+                {
+                    "Unit Name": "Necromancer",
+                    "Unit Unique ID": 3,
+
+                    "Damage Done Mod": 0.75
+                },
+                {
+                    "Unit Name": "Sorceress",
+                    "Unit Unique ID": 4,
+
+                    "Damage Done Mod": 1.0
+                },
+                {
+                    "Unit Name": "Warrior",
+                    "Unit Unique ID": 5,
+
+                    "Damage Done Mod": 0.75
+                }
+            ]
+
+        }
+    ]
+}

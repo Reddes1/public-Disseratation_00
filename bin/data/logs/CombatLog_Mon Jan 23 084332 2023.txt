@@ -1,0 +1,162 @@
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],2,0,0,0
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],2,2,0,1
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Assassin] for 45 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Assassin].
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],1,2,2,1
+(EC:2)[Team 0][Archer] attacked [Team 1][Barbarian] for 22.5 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],1,2,0,2
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Archer] for 45 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Archer] for 30 damage.
+(EC:1)[Team 1][Archer] has killed [Team 0][Archer].
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Barbarian] for 45 damage.
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],0,1,0,2
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Archer],1,1,0,1
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 19.125 damage.
+(EC:1)[Team 1][Assassin] has killed [Team 0][Barbarian].
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Sorceress] for 22.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Sorceress] for 45 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Sorceress] for 30 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Sorceress].
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Sorceress],1,1,1,1
+(EC:2)[Team 0][Necromancer] attacked [Team 1][Sorceress] for 30 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,1,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Necromancer] for 45 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Necromancer] attacked [Team 0][Warrior] for 38.25 damage.
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Necromancer] for 30 damage.
+(EC:1)[Team 1][Sorceress] has killed [Team 0][Necromancer].
+(EC:2)[Team 1][Warrior] attacked [Team 0][Warrior] for 19.125 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 0][Warrior] attacked [Team 1][Warrior] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:1)[Team 1][Barbarian] has killed [Team 0][Warrior].
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],2,0,0,0
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],2,2,0,1
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Assassin] for 45 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Assassin].
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],1,2,2,1
+(EC:2)[Team 0][Archer] attacked [Team 1][Barbarian] for 22.5 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],1,2,0,2
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Archer] for 45 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Archer] for 30 damage.
+(EC:1)[Team 1][Archer] has killed [Team 0][Archer].
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Barbarian] for 45 damage.
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],0,1,0,2
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Archer],1,1,0,1
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 19.125 damage.
+(EC:1)[Team 1][Assassin] has killed [Team 0][Barbarian].
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Sorceress] for 22.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Sorceress] for 45 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Sorceress] for 30 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Sorceress].
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Sorceress],1,1,1,1
+(EC:2)[Team 0][Necromancer] attacked [Team 1][Sorceress] for 30 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,1,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Necromancer] for 45 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Necromancer] attacked [Team 0][Warrior] for 38.25 damage.
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Necromancer] for 30 damage.
+(EC:1)[Team 1][Sorceress] has killed [Team 0][Necromancer].
+(EC:2)[Team 1][Warrior] attacked [Team 0][Warrior] for 19.125 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 0][Warrior] attacked [Team 1][Warrior] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:1)[Team 1][Barbarian] has killed [Team 0][Warrior].
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],2,0,0,0
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:4)[Team 0][Assassin] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],2,2,0,1
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],1,2,0,2
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: AGGRO][State ID: 0] against target [Team 1][Warrior],1,0,0,0
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Assassin] for 30 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Assassin] for 45 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Assassin].
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],2,2,0,1
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Archer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Barbarian],1,2,2,1
+(EC:2)[Team 0][Archer] attacked [Team 1][Barbarian] for 22.5 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],1,2,0,2
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Archer] for 45 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Archer] for 30 damage.
+(EC:1)[Team 1][Archer] has killed [Team 0][Archer].
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Barbarian] for 45 damage.
+(EC:4)[Team 0][Barbarian] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Assassin],0,1,0,2
+(EC:2)[Team 0][Barbarian] attacked [Team 1][Assassin] for 30 damage.
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Assassin],1,1,0,1
+(EC:4)[Team 0][Sorceress] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Archer],1,1,0,1
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,2,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Barbarian] for 19.125 damage.
+(EC:1)[Team 1][Assassin] has killed [Team 0][Barbarian].
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Sorceress] for 22.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Sorceress] for 45 damage.
+(EC:2)[Team 1][Warrior] attacked [Team 0][Sorceress] for 30 damage.
+(EC:1)[Team 1][Warrior] has killed [Team 0][Sorceress].
+(EC:4)[Team 0][Necromancer] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Sorceress],1,1,1,1
+(EC:2)[Team 0][Necromancer] attacked [Team 1][Sorceress] for 30 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: DEFENSIVE][State ID: 2] against target [Team 1][Barbarian],0,2,1,2
+(EC:2)[Team 1][Assassin] attacked [Team 0][Necromancer] for 45 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Archer] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:2)[Team 1][Necromancer] attacked [Team 0][Warrior] for 38.25 damage.
+(EC:2)[Team 1][Sorceress] attacked [Team 0][Necromancer] for 30 damage.
+(EC:1)[Team 1][Sorceress] has killed [Team 0][Necromancer].
+(EC:2)[Team 1][Warrior] attacked [Team 0][Warrior] for 19.125 damage.
+(EC:4)[Team 0][Warrior] fuzzy logic module resolved state as [State Name: BALANCED][State ID: 1] against target [Team 1][Warrior],0,0,0,1
+(EC:2)[Team 0][Warrior] attacked [Team 1][Warrior] for 22.5 damage.
+(EC:2)[Team 1][Barbarian] attacked [Team 0][Warrior] for 25.5 damage.
+(EC:1)[Team 1][Barbarian] has killed [Team 0][Warrior].
